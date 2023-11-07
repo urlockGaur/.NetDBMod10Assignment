@@ -40,7 +40,7 @@ namespace EFTutorial
                 }
                 else if (input == "2")
                 {
-                    Console.WriteLine("Hello!");
+                    Console.WriteLine("Hello broS!");
                 }
             }
 
